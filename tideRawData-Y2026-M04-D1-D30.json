@@ -6,6 +6,54 @@
       "date": "01-04-2026",
       "points": [
         {
+          "localTime": "00:00",
+          "height": 1.14
+        },
+        {
+          "localTime": "00:05",
+          "height": 1.18
+        },
+        {
+          "localTime": "00:10",
+          "height": 1.22
+        },
+        {
+          "localTime": "00:15",
+          "height": 1.26
+        },
+        {
+          "localTime": "00:20",
+          "height": 1.31
+        },
+        {
+          "localTime": "00:25",
+          "height": 1.36
+        },
+        {
+          "localTime": "00:30",
+          "height": 1.41
+        },
+        {
+          "localTime": "00:35",
+          "height": 1.46
+        },
+        {
+          "localTime": "00:40",
+          "height": 1.52
+        },
+        {
+          "localTime": "00:45",
+          "height": 1.58
+        },
+        {
+          "localTime": "00:50",
+          "height": 1.64
+        },
+        {
+          "localTime": "00:55",
+          "height": 1.7
+        },
+        {
           "localTime": "01:00",
           "height": 1.76
         },
