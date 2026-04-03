@@ -11,12 +11,27 @@
           "tide": "H"
         },
         {
+          "localTime": "06:15",
+          "height": 5.139999568485003,
+          "tide": "H"
+        },
+        {
           "localTime": "11:06",
           "height": 0.6008328292915852,
           "tide": "L"
         },
         {
+          "localTime": "12:06",
+          "height": 0.6008328292915852,
+          "tide": "L"
+        },
+        {
           "localTime": "17:32",
+          "height": 5.138999948024142,
+          "tide": "H"
+        },
+        {
+          "localTime": "18:32",
           "height": 5.138999948024142,
           "tide": "H"
         },
@@ -40,51 +55,56 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 0.823374
+          "height": 0.710663
+        },
+        {
+          "localTime": "00:16",
+          "height": 0.6887727102517052,
+          "tide": "L"
         },
         {
           "localTime": "00:30",
-          "height": 1.052968
+          "height": 0.704076
         },
         {
           "localTime": "01:00",
-          "height": 1.410165
+          "height": 0.823374
         },
         {
           "localTime": "01:30",
-          "height": 1.884176
+          "height": 1.052968
         },
         {
           "localTime": "02:00",
-          "height": 2.405686
+          "height": 1.410165
         },
         {
           "localTime": "02:30",
-          "height": 2.900573
+          "height": 1.884176
         },
         {
           "localTime": "03:00",
-          "height": 3.347688
+          "height": 2.405686
         },
         {
           "localTime": "03:30",
-          "height": 3.763877
+          "height": 2.900573
         },
         {
           "localTime": "04:00",
-          "height": 4.161228
+          "height": 3.347688
         },
         {
           "localTime": "04:30",
-          "height": 4.533686
+          "height": 3.763877
         },
         {
           "localTime": "05:00",
-          "height": 4.852468
+          "height": 4.161228
         },
         {
           "localTime": "05:30",
-          "height": 5.059345
+          "height": 4.533686
         },
         {
           "localTime": "05:49",
@@ -93,51 +113,56 @@
         },
         {
           "localTime": "06:00",
-          "height": 5.090634
+          "height": 4.852468
         },
         {
           "localTime": "06:30",
-          "height": 4.921984
+          "height": 5.059345
+        },
+        {
+          "localTime": "06:49",
+          "height": 5.102333585444498,
+          "tide": "H"
         },
         {
           "localTime": "07:00",
-          "height": 4.585042
+          "height": 5.090634
         },
         {
           "localTime": "07:30",
-          "height": 4.147651
+          "height": 4.921984
         },
         {
           "localTime": "08:00",
-          "height": 3.67686
+          "height": 4.585042
         },
         {
           "localTime": "08:30",
-          "height": 3.197804
+          "height": 4.147651
         },
         {
           "localTime": "09:00",
-          "height": 2.685322
+          "height": 3.67686
         },
         {
           "localTime": "09:30",
-          "height": 2.118382
+          "height": 3.197804
         },
         {
           "localTime": "10:00",
-          "height": 1.54304
+          "height": 2.685322
         },
         {
           "localTime": "10:30",
-          "height": 1.062754
+          "height": 2.118382
         },
         {
           "localTime": "11:00",
-          "height": 0.76685
+          "height": 1.54304
         },
         {
           "localTime": "11:30",
-          "height": 0.674391
+          "height": 1.062754
         },
         {
           "localTime": "11:31",
@@ -146,55 +171,60 @@
         },
         {
           "localTime": "12:00",
-          "height": 0.738886
+          "height": 0.76685
         },
         {
           "localTime": "12:30",
-          "height": 0.905383
+          "height": 0.674391
+        },
+        {
+          "localTime": "12:31",
+          "height": 0.6743749262663624,
+          "tide": "L"
         },
         {
           "localTime": "13:00",
-          "height": 1.166116
+          "height": 0.738886
         },
         {
           "localTime": "13:30",
-          "height": 1.546252
+          "height": 0.905383
         },
         {
           "localTime": "14:00",
-          "height": 2.033873
+          "height": 1.166116
         },
         {
           "localTime": "14:30",
-          "height": 2.558964
+          "height": 1.546252
         },
         {
           "localTime": "15:00",
-          "height": 3.054931
+          "height": 2.033873
         },
         {
           "localTime": "15:30",
-          "height": 3.507151
+          "height": 2.558964
         },
         {
           "localTime": "16:00",
-          "height": 3.930142
+          "height": 3.054931
         },
         {
           "localTime": "16:30",
-          "height": 4.32937
+          "height": 3.507151
         },
         {
           "localTime": "17:00",
-          "height": 4.68938
+          "height": 3.930142
         },
         {
           "localTime": "17:30",
-          "height": 4.967503
+          "height": 4.32937
         },
         {
           "localTime": "18:00",
-          "height": 5.098723
+          "height": 4.68938
         },
         {
           "localTime": "18:05",
@@ -203,47 +233,52 @@
         },
         {
           "localTime": "18:30",
-          "height": 5.034174
+          "height": 4.967503
         },
         {
           "localTime": "19:00",
-          "height": 4.779281
+          "height": 5.098723
+        },
+        {
+          "localTime": "19:05",
+          "height": 5.102183923637427,
+          "tide": "H"
         },
         {
           "localTime": "19:30",
-          "height": 4.389271
+          "height": 5.034174
         },
         {
           "localTime": "20:00",
-          "height": 3.935718
+          "height": 4.779281
         },
         {
           "localTime": "20:30",
-          "height": 3.46911
+          "height": 4.389271
         },
         {
           "localTime": "21:00",
-          "height": 2.991
+          "height": 3.935718
         },
         {
           "localTime": "21:30",
-          "height": 2.469466
+          "height": 3.46911
         },
         {
           "localTime": "22:00",
-          "height": 1.903496
+          "height": 2.991
         },
         {
           "localTime": "22:30",
-          "height": 1.36457
+          "height": 2.469466
         },
         {
           "localTime": "23:00",
-          "height": 0.95946
+          "height": 1.903496
         },
         {
           "localTime": "23:30",
-          "height": 0.757545
+          "height": 1.36457
         },
         {
           "localTime": "23:45",
@@ -257,55 +292,60 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 0.754155
+          "height": 0.95946
         },
         {
           "localTime": "00:30",
-          "height": 0.89196
+          "height": 0.757545
+        },
+        {
+          "localTime": "00:45",
+          "height": 0.7339888204982837,
+          "tide": "L"
         },
         {
           "localTime": "01:00",
-          "height": 1.120723
+          "height": 0.754155
         },
         {
           "localTime": "01:30",
-          "height": 1.43948
+          "height": 0.89196
         },
         {
           "localTime": "02:00",
-          "height": 1.865019
+          "height": 1.120723
         },
         {
           "localTime": "02:30",
-          "height": 2.366031
+          "height": 1.43948
         },
         {
           "localTime": "03:00",
-          "height": 2.865663
+          "height": 1.865019
         },
         {
           "localTime": "03:30",
-          "height": 3.311159
+          "height": 2.366031
         },
         {
           "localTime": "04:00",
-          "height": 3.705649
+          "height": 2.865663
         },
         {
           "localTime": "04:30",
-          "height": 4.072326
+          "height": 3.311159
         },
         {
           "localTime": "05:00",
-          "height": 4.41784
+          "height": 3.705649
         },
         {
           "localTime": "05:30",
-          "height": 4.721736
+          "height": 4.072326
         },
         {
           "localTime": "06:00",
-          "height": 4.932812
+          "height": 4.41784
         },
         {
           "localTime": "06:23",
@@ -314,104 +354,109 @@
         },
         {
           "localTime": "06:30",
-          "height": 4.986246
+          "height": 4.721736
         },
         {
           "localTime": "07:00",
-          "height": 4.847966
+          "height": 4.932812
+        },
+        {
+          "localTime": "07:23",
+          "height": 4.990563832712912,
+          "tide": "H"
         },
         {
           "localTime": "07:30",
-          "height": 4.540548
+          "height": 4.986246
         },
         {
           "localTime": "08:00",
-          "height": 4.125803
+          "height": 4.847966
         },
         {
           "localTime": "08:30",
-          "height": 3.670354
+          "height": 4.540548
         },
         {
           "localTime": "09:00",
-          "height": 3.212118
+          "height": 4.125803
         },
         {
           "localTime": "09:30",
-          "height": 2.741228
+          "height": 3.670354
         },
         {
           "localTime": "10:00",
-          "height": 2.229642
+          "height": 3.212118
         },
         {
           "localTime": "10:30",
-          "height": 1.695905
+          "height": 2.741228
         },
         {
           "localTime": "11:00",
-          "height": 1.22562
+          "height": 2.229642
         },
         {
           "localTime": "11:30",
-          "height": 0.917567
+          "height": 1.695905
         },
         {
           "localTime": "12:00",
+          "height": 1.22562
+        },
+        {
+          "localTime": "12:30",
+          "height": 0.917567
+        },
+        {
+          "localTime": "13:00",
           "height": 0.817312,
           "tide": "L"
         },
         {
-          "localTime": "12:30",
+          "localTime": "13:30",
           "height": 0.896828
         },
         {
-          "localTime": "13:00",
+          "localTime": "14:00",
           "height": 1.08775
         },
         {
-          "localTime": "13:30",
+          "localTime": "14:30",
           "height": 1.344573
         },
         {
-          "localTime": "14:00",
+          "localTime": "15:00",
           "height": 1.677305
         },
         {
-          "localTime": "14:30",
+          "localTime": "15:30",
           "height": 2.106226
         },
         {
-          "localTime": "15:00",
+          "localTime": "16:00",
           "height": 2.598417
         },
         {
-          "localTime": "15:30",
+          "localTime": "16:30",
           "height": 3.082722
         },
         {
-          "localTime": "16:00",
+          "localTime": "17:00",
           "height": 3.516589
         },
         {
-          "localTime": "16:30",
+          "localTime": "17:30",
           "height": 3.904866
         },
         {
-          "localTime": "17:00",
+          "localTime": "18:00",
           "height": 4.263746
         },
         {
-          "localTime": "17:30",
-          "height": 4.59089
-        },
-        {
-          "localTime": "18:00",
-          "height": 4.854421
-        },
-        {
           "localTime": "18:30",
-          "height": 4.993782
+          "height": 4.59089
         },
         {
           "localTime": "18:38",
@@ -420,43 +465,48 @@
         },
         {
           "localTime": "19:00",
-          "height": 4.951774
+          "height": 4.854421
         },
         {
           "localTime": "19:30",
-          "height": 4.721041
+          "height": 4.993782
+        },
+        {
+          "localTime": "19:38",
+          "height": 5.001785114810526,
+          "tide": "H"
         },
         {
           "localTime": "20:00",
-          "height": 4.35124
+          "height": 4.951774
         },
         {
           "localTime": "20:30",
-          "height": 3.914164
+          "height": 4.721041
         },
         {
           "localTime": "21:00",
-          "height": 3.465869
+          "height": 4.35124
         },
         {
           "localTime": "21:30",
-          "height": 3.020743
+          "height": 3.914164
         },
         {
           "localTime": "22:00",
-          "height": 2.551876
+          "height": 3.465869
         },
         {
           "localTime": "22:30",
-          "height": 2.039841
+          "height": 3.020743
         },
         {
           "localTime": "23:00",
-          "height": 1.529619
+          "height": 2.551876
         },
         {
           "localTime": "23:30",
-          "height": 1.120657
+          "height": 2.039841
         }
       ]
     },
@@ -465,7 +515,7 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 0.89798
+          "height": 1.529619
         },
         {
           "localTime": "00:17",
@@ -474,55 +524,60 @@
         },
         {
           "localTime": "00:30",
-          "height": 0.88026
+          "height": 1.120657
         },
         {
           "localTime": "01:00",
-          "height": 1.021164
+          "height": 0.89798
+        },
+        {
+          "localTime": "01:17",
+          "height": 0.8646074375581707,
+          "tide": "L"
         },
         {
           "localTime": "01:30",
-          "height": 1.252586
+          "height": 0.88026
         },
         {
           "localTime": "02:00",
-          "height": 1.541134
+          "height": 1.021164
         },
         {
           "localTime": "02:30",
-          "height": 1.901365
+          "height": 1.252586
         },
         {
           "localTime": "03:00",
-          "height": 2.34034
+          "height": 1.541134
         },
         {
           "localTime": "03:30",
-          "height": 2.81053
+          "height": 1.901365
         },
         {
           "localTime": "04:00",
-          "height": 3.244877
+          "height": 2.34034
         },
         {
           "localTime": "04:30",
-          "height": 3.618082
+          "height": 2.81053
         },
         {
           "localTime": "05:00",
-          "height": 3.947829
+          "height": 3.244877
         },
         {
           "localTime": "05:30",
-          "height": 4.254304
+          "height": 3.618082
         },
         {
           "localTime": "06:00",
-          "height": 4.532645
+          "height": 3.947829
         },
         {
           "localTime": "06:30",
-          "height": 4.742602
+          "height": 4.254304
         },
         {
           "localTime": "06:58",
@@ -531,51 +586,56 @@
         },
         {
           "localTime": "07:00",
-          "height": 4.818781
+          "height": 4.532645
         },
         {
           "localTime": "07:30",
-          "height": 4.714552
+          "height": 4.742602
+        },
+        {
+          "localTime": "07:58",
+          "height": 4.819070129348849,
+          "tide": "H"
         },
         {
           "localTime": "08:00",
-          "height": 4.441828
+          "height": 4.818781
         },
         {
           "localTime": "08:30",
-          "height": 4.06041
+          "height": 4.714552
         },
         {
           "localTime": "09:00",
-          "height": 3.637812
+          "height": 4.441828
         },
         {
           "localTime": "09:30",
-          "height": 3.217537
+          "height": 4.06041
         },
         {
           "localTime": "10:00",
-          "height": 2.800846
+          "height": 3.637812
         },
         {
           "localTime": "10:30",
-          "height": 2.358784
+          "height": 3.217537
         },
         {
           "localTime": "11:00",
-          "height": 1.887628
+          "height": 2.800846
         },
         {
           "localTime": "11:30",
-          "height": 1.45054
+          "height": 2.358784
         },
         {
           "localTime": "12:00",
-          "height": 1.144694
+          "height": 1.887628
         },
         {
           "localTime": "12:30",
-          "height": 1.031467
+          "height": 1.45054
         },
         {
           "localTime": "12:32",
@@ -584,55 +644,60 @@
         },
         {
           "localTime": "13:00",
-          "height": 1.103012
+          "height": 1.144694
         },
         {
           "localTime": "13:30",
-          "height": 1.298957
+          "height": 1.031467
+        },
+        {
+          "localTime": "13:32",
+          "height": 1.030955853429676,
+          "tide": "L"
         },
         {
           "localTime": "14:00",
-          "height": 1.554077
+          "height": 1.103012
         },
         {
           "localTime": "14:30",
-          "height": 1.848179
+          "height": 1.298957
         },
         {
           "localTime": "15:00",
-          "height": 2.204423
+          "height": 1.554077
         },
         {
           "localTime": "15:30",
-          "height": 2.628462
+          "height": 1.848179
         },
         {
           "localTime": "16:00",
-          "height": 3.073642
+          "height": 2.204423
         },
         {
           "localTime": "16:30",
-          "height": 3.482871
+          "height": 2.628462
         },
         {
           "localTime": "17:00",
-          "height": 3.837922
+          "height": 3.073642
         },
         {
           "localTime": "17:30",
-          "height": 4.152201
+          "height": 3.482871
         },
         {
           "localTime": "18:00",
-          "height": 4.436828
+          "height": 3.837922
         },
         {
           "localTime": "18:30",
-          "height": 4.677425
+          "height": 4.152201
         },
         {
           "localTime": "19:00",
-          "height": 4.824283
+          "height": 4.436828
         },
         {
           "localTime": "19:13",
@@ -641,39 +706,44 @@
         },
         {
           "localTime": "19:30",
-          "height": 4.813311
+          "height": 4.677425
         },
         {
           "localTime": "20:00",
-          "height": 4.618711
+          "height": 4.824283
+        },
+        {
+          "localTime": "20:13",
+          "height": 4.8418923386720705,
+          "tide": "H"
         },
         {
           "localTime": "20:30",
-          "height": 4.27998
+          "height": 4.813311
         },
         {
           "localTime": "21:00",
-          "height": 3.871061
+          "height": 4.618711
         },
         {
           "localTime": "21:30",
-          "height": 3.454138
+          "height": 4.27998
         },
         {
           "localTime": "22:00",
-          "height": 3.053369
+          "height": 3.871061
         },
         {
           "localTime": "22:30",
-          "height": 2.649216
+          "height": 3.454138
         },
         {
           "localTime": "23:00",
-          "height": 2.209676
+          "height": 3.053369
         },
         {
           "localTime": "23:30",
-          "height": 1.751309
+          "height": 2.649216
         }
       ]
     },
@@ -682,11 +752,11 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 1.357765
+          "height": 2.209676
         },
         {
           "localTime": "00:30",
-          "height": 1.121776
+          "height": 1.751309
         },
         {
           "localTime": "00:51",
@@ -695,59 +765,64 @@
         },
         {
           "localTime": "01:00",
-          "height": 1.07942
+          "height": 1.357765
         },
         {
           "localTime": "01:30",
-          "height": 1.19972
+          "height": 1.121776
+        },
+        {
+          "localTime": "01:51",
+          "height": 1.0725874910847266,
+          "tide": "L"
         },
         {
           "localTime": "02:00",
-          "height": 1.417218
+          "height": 1.07942
         },
         {
           "localTime": "02:30",
-          "height": 1.679154
+          "height": 1.19972
         },
         {
           "localTime": "03:00",
-          "height": 1.979383
+          "height": 1.417218
         },
         {
           "localTime": "03:30",
-          "height": 2.338238
+          "height": 1.679154
         },
         {
           "localTime": "04:00",
-          "height": 2.745048
+          "height": 1.979383
         },
         {
           "localTime": "04:30",
-          "height": 3.146276
+          "height": 2.338238
         },
         {
           "localTime": "05:00",
-          "height": 3.496118
+          "height": 2.745048
         },
         {
           "localTime": "05:30",
-          "height": 3.791389
+          "height": 3.146276
         },
         {
           "localTime": "06:00",
-          "height": 4.053154
+          "height": 3.496118
         },
         {
           "localTime": "06:30",
-          "height": 4.293608
+          "height": 3.791389
         },
         {
           "localTime": "07:00",
-          "height": 4.49291
+          "height": 4.053154
         },
         {
           "localTime": "07:30",
-          "height": 4.593507
+          "height": 4.293608
         },
         {
           "localTime": "07:35",
@@ -756,47 +831,52 @@
         },
         {
           "localTime": "08:00",
-          "height": 4.534908
+          "height": 4.49291
         },
         {
           "localTime": "08:30",
-          "height": 4.30904
+          "height": 4.593507
+        },
+        {
+          "localTime": "08:35",
+          "height": 4.595897275389142,
+          "tide": "H"
         },
         {
           "localTime": "09:00",
-          "height": 3.969691
+          "height": 4.534908
         },
         {
           "localTime": "09:30",
-          "height": 3.588834
+          "height": 4.30904
         },
         {
           "localTime": "10:00",
-          "height": 3.21584
+          "height": 3.969691
         },
         {
           "localTime": "10:30",
-          "height": 2.86098
+          "height": 3.588834
         },
         {
           "localTime": "11:00",
-          "height": 2.498484
+          "height": 3.21584
         },
         {
           "localTime": "11:30",
-          "height": 2.106345
+          "height": 2.86098
         },
         {
           "localTime": "12:00",
-          "height": 1.720608
+          "height": 2.498484
         },
         {
           "localTime": "12:30",
-          "height": 1.429981
+          "height": 2.106345
         },
         {
           "localTime": "13:00",
-          "height": 1.306577
+          "height": 1.720608
         },
         {
           "localTime": "13:05",
@@ -805,55 +885,60 @@
         },
         {
           "localTime": "13:30",
-          "height": 1.356455
+          "height": 1.429981
         },
         {
           "localTime": "14:00",
-          "height": 1.530748
+          "height": 1.306577
+        },
+        {
+          "localTime": "14:05",
+          "height": 1.3036869650884193,
+          "tide": "L"
         },
         {
           "localTime": "14:30",
-          "height": 1.7657
+          "height": 1.356455
         },
         {
           "localTime": "15:00",
-          "height": 2.023998
+          "height": 1.530748
         },
         {
           "localTime": "15:30",
-          "height": 2.313686
+          "height": 1.7657
         },
         {
           "localTime": "16:00",
-          "height": 2.656102
+          "height": 2.023998
         },
         {
           "localTime": "16:30",
-          "height": 3.035886
+          "height": 2.313686
         },
         {
           "localTime": "17:00",
-          "height": 3.404096
+          "height": 2.656102
         },
         {
           "localTime": "17:30",
-          "height": 3.725144
+          "height": 3.035886
         },
         {
           "localTime": "18:00",
-          "height": 3.997467
+          "height": 3.404096
         },
         {
           "localTime": "18:30",
-          "height": 4.235044
+          "height": 3.725144
         },
         {
           "localTime": "19:00",
-          "height": 4.441854
+          "height": 3.997467
         },
         {
           "localTime": "19:30",
-          "height": 4.589622
+          "height": 4.235044
         },
         {
           "localTime": "19:51",
@@ -862,35 +947,40 @@
         },
         {
           "localTime": "20:00",
-          "height": 4.617304
+          "height": 4.441854
         },
         {
           "localTime": "20:30",
-          "height": 4.477501
+          "height": 4.589622
+        },
+        {
+          "localTime": "20:51",
+          "height": 4.625395012045276,
+          "tide": "H"
         },
         {
           "localTime": "21:00",
-          "height": 4.187542
+          "height": 4.617304
         },
         {
           "localTime": "21:30",
-          "height": 3.818272
+          "height": 4.477501
         },
         {
           "localTime": "22:00",
-          "height": 3.43986
+          "height": 4.187542
         },
         {
           "localTime": "22:30",
-          "height": 3.086681
+          "height": 3.818272
         },
         {
           "localTime": "23:00",
-          "height": 2.750079
+          "height": 3.43986
         },
         {
           "localTime": "23:30",
-          "height": 2.394348
+          "height": 3.086681
         }
       ]
     },
@@ -899,15 +989,15 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 2.008109
+          "height": 2.750079
         },
         {
           "localTime": "00:30",
-          "height": 1.648214
+          "height": 2.394348
         },
         {
           "localTime": "01:00",
-          "height": 1.407787
+          "height": 2.008109
         },
         {
           "localTime": "01:27",
@@ -916,59 +1006,64 @@
         },
         {
           "localTime": "01:30",
-          "height": 1.339109
+          "height": 1.648214
         },
         {
           "localTime": "02:00",
-          "height": 1.423508
+          "height": 1.407787
+        },
+        {
+          "localTime": "02:27",
+          "height": 1.3383138053126666,
+          "tide": "L"
         },
         {
           "localTime": "02:30",
-          "height": 1.602974
+          "height": 1.339109
         },
         {
           "localTime": "03:00",
-          "height": 1.824359
+          "height": 1.423508
         },
         {
           "localTime": "03:30",
-          "height": 2.069079
+          "height": 1.602974
         },
         {
           "localTime": "04:00",
-          "height": 2.352
+          "height": 1.824359
         },
         {
           "localTime": "04:30",
-          "height": 2.681401
+          "height": 2.069079
         },
         {
           "localTime": "05:00",
-          "height": 3.026575
+          "height": 2.352
         },
         {
           "localTime": "05:30",
-          "height": 3.340639
+          "height": 2.681401
         },
         {
           "localTime": "06:00",
-          "height": 3.602485
+          "height": 3.026575
         },
         {
           "localTime": "06:30",
-          "height": 3.82213
+          "height": 3.340639
         },
         {
           "localTime": "07:00",
-          "height": 4.018519
+          "height": 3.602485
         },
         {
           "localTime": "07:30",
-          "height": 4.194361
+          "height": 3.82213
         },
         {
           "localTime": "08:00",
-          "height": 4.313511
+          "height": 4.018519
         },
         {
           "localTime": "08:15",
@@ -977,47 +1072,52 @@
         },
         {
           "localTime": "08:30",
-          "height": 4.311111
+          "height": 4.194361
         },
         {
           "localTime": "09:00",
-          "height": 4.151495
+          "height": 4.313511
+        },
+        {
+          "localTime": "09:15",
+          "height": 4.331213926736619,
+          "tide": "H"
         },
         {
           "localTime": "09:30",
-          "height": 3.868995
+          "height": 4.311111
         },
         {
           "localTime": "10:00",
-          "height": 3.537472
+          "height": 4.151495
         },
         {
           "localTime": "10:30",
-          "height": 3.215237
+          "height": 3.868995
         },
         {
           "localTime": "11:00",
-          "height": 2.92199
+          "height": 3.537472
         },
         {
           "localTime": "11:30",
-          "height": 2.640142
+          "height": 3.215237
         },
         {
           "localTime": "12:00",
-          "height": 2.337611
+          "height": 2.92199
         },
         {
           "localTime": "12:30",
-          "height": 2.019629
+          "height": 2.640142
         },
         {
           "localTime": "13:00",
-          "height": 1.754659
+          "height": 2.337611
         },
         {
           "localTime": "13:30",
-          "height": 1.622902
+          "height": 2.019629
         },
         {
           "localTime": "13:39",
@@ -1026,59 +1126,64 @@
         },
         {
           "localTime": "14:00",
-          "height": 1.646219
+          "height": 1.754659
         },
         {
           "localTime": "14:30",
-          "height": 1.782974
+          "height": 1.622902
+        },
+        {
+          "localTime": "14:39",
+          "height": 1.614609678675592,
+          "tide": "L"
         },
         {
           "localTime": "15:00",
-          "height": 1.973858
+          "height": 1.646219
         },
         {
           "localTime": "15:30",
-          "height": 2.182214
+          "height": 1.782974
         },
         {
           "localTime": "16:00",
-          "height": 2.4088
+          "height": 1.973858
         },
         {
           "localTime": "16:30",
-          "height": 2.674437
+          "height": 2.182214
         },
         {
           "localTime": "17:00",
-          "height": 2.979756
+          "height": 2.4088
         },
         {
           "localTime": "17:30",
-          "height": 3.290485
+          "height": 2.674437
         },
         {
           "localTime": "18:00",
-          "height": 3.56848
+          "height": 2.979756
         },
         {
           "localTime": "18:30",
-          "height": 3.800661
+          "height": 3.290485
         },
         {
           "localTime": "19:00",
-          "height": 3.994846
+          "height": 3.56848
         },
         {
           "localTime": "19:30",
-          "height": 4.163152
+          "height": 3.800661
         },
         {
           "localTime": "20:00",
-          "height": 4.300794
+          "height": 3.994846
         },
         {
           "localTime": "20:30",
-          "height": 4.364973
+          "height": 4.163152
         },
         {
           "localTime": "20:31",
@@ -1087,27 +1192,32 @@
         },
         {
           "localTime": "21:00",
-          "height": 4.29555
+          "height": 4.300794
         },
         {
           "localTime": "21:30",
-          "height": 4.077565
+          "height": 4.364973
+        },
+        {
+          "localTime": "21:31",
+          "height": 4.365088154035432,
+          "tide": "H"
         },
         {
           "localTime": "22:00",
-          "height": 3.765107
+          "height": 4.29555
         },
         {
           "localTime": "22:30",
-          "height": 3.433744
+          "height": 4.077565
         },
         {
           "localTime": "23:00",
-          "height": 3.128909
+          "height": 3.765107
         },
         {
           "localTime": "23:30",
-          "height": 2.854107
+          "height": 3.433744
         }
       ]
     },
@@ -1116,23 +1226,23 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 2.580368
+          "height": 3.128909
         },
         {
           "localTime": "00:30",
-          "height": 2.278239
+          "height": 2.854107
         },
         {
           "localTime": "01:00",
-          "height": 1.969417
+          "height": 2.580368
         },
         {
           "localTime": "01:30",
-          "height": 1.732752
+          "height": 2.278239
         },
         {
           "localTime": "02:00",
-          "height": 1.63644
+          "height": 1.969417
         },
         {
           "localTime": "02:04",
@@ -1141,55 +1251,60 @@
         },
         {
           "localTime": "02:30",
-          "height": 1.678925
+          "height": 1.732752
         },
         {
           "localTime": "03:00",
-          "height": 1.80648
+          "height": 1.63644
+        },
+        {
+          "localTime": "03:04",
+          "height": 1.6349618162107185,
+          "tide": "L"
         },
         {
           "localTime": "03:30",
-          "height": 1.967948
+          "height": 1.678925
         },
         {
           "localTime": "04:00",
-          "height": 2.146691
+          "height": 1.80648
         },
         {
           "localTime": "04:30",
-          "height": 2.356985
+          "height": 1.967948
         },
         {
           "localTime": "05:00",
-          "height": 2.612287
+          "height": 2.146691
         },
         {
           "localTime": "05:30",
-          "height": 2.893604
+          "height": 2.356985
         },
         {
           "localTime": "06:00",
-          "height": 3.158895
+          "height": 2.612287
         },
         {
           "localTime": "06:30",
-          "height": 3.381107
+          "height": 2.893604
         },
         {
           "localTime": "07:00",
-          "height": 3.562272
+          "height": 3.158895
         },
         {
           "localTime": "07:30",
-          "height": 3.718986
+          "height": 3.381107
         },
         {
           "localTime": "08:00",
-          "height": 3.865731
+          "height": 3.562272
         },
         {
           "localTime": "08:30",
-          "height": 3.992052
+          "height": 3.718986
         },
         {
           "localTime": "08:59",
@@ -1198,47 +1313,52 @@
         },
         {
           "localTime": "09:00",
-          "height": 4.046082
+          "height": 3.865731
         },
         {
           "localTime": "09:30",
-          "height": 3.970366
+          "height": 3.992052
+        },
+        {
+          "localTime": "09:59",
+          "height": 4.046155565628706,
+          "tide": "H"
         },
         {
           "localTime": "10:00",
-          "height": 3.76588
+          "height": 4.046082
         },
         {
           "localTime": "10:30",
-          "height": 3.496326
+          "height": 3.970366
         },
         {
           "localTime": "11:00",
-          "height": 3.229379
+          "height": 3.76588
         },
         {
           "localTime": "11:30",
-          "height": 2.995143
+          "height": 3.496326
         },
         {
           "localTime": "12:00",
-          "height": 2.785998
+          "height": 3.229379
         },
         {
           "localTime": "12:30",
-          "height": 2.57109
+          "height": 2.995143
         },
         {
           "localTime": "13:00",
-          "height": 2.331369
+          "height": 2.785998
         },
         {
           "localTime": "13:30",
-          "height": 2.102676
+          "height": 2.57109
         },
         {
           "localTime": "14:00",
-          "height": 1.961321
+          "height": 2.331369
         },
         {
           "localTime": "14:17",
@@ -1247,59 +1367,64 @@
         },
         {
           "localTime": "14:30",
-          "height": 1.950933
+          "height": 2.102676
         },
         {
           "localTime": "15:00",
-          "height": 2.043816
+          "height": 1.961321
+        },
+        {
+          "localTime": "15:17",
+          "height": 1.9396584915128616,
+          "tide": "L"
         },
         {
           "localTime": "15:30",
-          "height": 2.179417
+          "height": 1.950933
         },
         {
           "localTime": "16:00",
-          "height": 2.320752
+          "height": 2.043816
         },
         {
           "localTime": "16:30",
-          "height": 2.47321
+          "height": 2.179417
         },
         {
           "localTime": "17:00",
-          "height": 2.663076
+          "height": 2.320752
         },
         {
           "localTime": "17:30",
-          "height": 2.897853
+          "height": 2.47321
         },
         {
           "localTime": "18:00",
-          "height": 3.14835
+          "height": 2.663076
         },
         {
           "localTime": "18:30",
-          "height": 3.375744
+          "height": 2.897853
         },
         {
           "localTime": "19:00",
-          "height": 3.564764
+          "height": 3.14835
         },
         {
           "localTime": "19:30",
-          "height": 3.721701
+          "height": 3.375744
         },
         {
           "localTime": "20:00",
-          "height": 3.858303
+          "height": 3.564764
         },
         {
           "localTime": "20:30",
-          "height": 3.98161
+          "height": 3.721701
         },
         {
           "localTime": "21:00",
-          "height": 4.072665
+          "height": 3.858303
         },
         {
           "localTime": "21:17",
@@ -1308,23 +1433,28 @@
         },
         {
           "localTime": "21:30",
-          "height": 4.076923
+          "height": 3.98161
         },
         {
           "localTime": "22:00",
-          "height": 3.950697
+          "height": 4.072665
+        },
+        {
+          "localTime": "22:17",
+          "height": 4.089662625883892,
+          "tide": "H"
         },
         {
           "localTime": "22:30",
-          "height": 3.716639
+          "height": 4.076923
         },
         {
           "localTime": "23:00",
-          "height": 3.445868
+          "height": 3.950697
         },
         {
           "localTime": "23:30",
-          "height": 3.194552
+          "height": 3.716639
         }
       ]
     },
@@ -1333,27 +1463,27 @@
       "points": [
         {
           "localTime": "00:00",
-          "height": 2.976194
+          "height": 3.445868
         },
         {
           "localTime": "00:30",
-          "height": 2.77181
+          "height": 3.194552
         },
         {
           "localTime": "01:00",
-          "height": 2.549277
+          "height": 2.976194
         },
         {
           "localTime": "01:30",
-          "height": 2.301075
+          "height": 2.77181
         },
         {
           "localTime": "02:00",
-          "height": 2.076511
+          "height": 2.549277
         },
         {
           "localTime": "02:30",
-          "height": 1.948687
+          "height": 2.301075
         },
         {
           "localTime": "02:46",
@@ -1362,59 +1492,64 @@
         },
         {
           "localTime": "03:00",
-          "height": 1.941861
+          "height": 2.076511
         },
         {
           "localTime": "03:30",
-          "height": 2.01364
+          "height": 1.948687
+        },
+        {
+          "localTime": "03:46",
+          "height": 1.9315563114879073,
+          "tide": "L"
         },
         {
           "localTime": "04:00",
-          "height": 2.107909
+          "height": 1.941861
         },
         {
           "localTime": "04:30",
-          "height": 2.206807
+          "height": 2.01364
         },
         {
           "localTime": "05:00",
-          "height": 2.333339
+          "height": 2.107909
         },
         {
           "localTime": "05:30",
-          "height": 2.513079
+          "height": 2.206807
         },
         {
           "localTime": "06:00",
-          "height": 2.734175
+          "height": 2.333339
         },
         {
           "localTime": "06:30",
-          "height": 2.951401
+          "height": 2.513079
         },
         {
           "localTime": "07:00",
-          "height": 3.130849
+          "height": 2.734175
         },
         {
           "localTime": "07:30",
-          "height": 3.274242
+          "height": 2.951401
         },
         {
           "localTime": "08:00",
-          "height": 3.40036
+          "height": 3.130849
         },
         {
           "localTime": "08:30",
-          "height": 3.525537
+          "height": 3.274242
         },
         {
           "localTime": "09:00",
-          "height": 3.653737
+          "height": 3.40036
         },
         {
           "localTime": "09:30",
-          "height": 3.755383
+          "height": 3.525537
         },
         {
           "localTime": "09:49",
@@ -1423,104 +1558,109 @@
         },
         {
           "localTime": "10:00",
-          "height": 3.769888
+          "height": 3.653737
         },
         {
           "localTime": "10:30",
-          "height": 3.663786
+          "height": 3.755383
+        },
+        {
+          "localTime": "10:49",
+          "height": 3.7782152001724105,
+          "tide": "H"
         },
         {
           "localTime": "11:00",
-          "height": 3.474259
+          "height": 3.769888
         },
         {
           "localTime": "11:30",
-          "height": 3.271575
+          "height": 3.663786
         },
         {
           "localTime": "12:00",
-          "height": 3.097432
+          "height": 3.474259
         },
         {
           "localTime": "12:30",
-          "height": 2.951843
+          "height": 3.271575
         },
         {
           "localTime": "13:00",
-          "height": 2.810112
+          "height": 3.097432
         },
         {
           "localTime": "13:30",
-          "height": 2.644081
+          "height": 2.951843
         },
         {
           "localTime": "14:00",
-          "height": 2.458168
+          "height": 2.810112
         },
         {
           "localTime": "14:30",
-          "height": 2.307486
+          "height": 2.644081
         },
         {
           "localTime": "15:00",
+          "height": 2.458168
+        },
+        {
+          "localTime": "15:30",
+          "height": 2.307486
+        },
+        {
+          "localTime": "16:00",
           "height": 2.251385,
           "tide": "L"
         },
         {
-          "localTime": "15:30",
+          "localTime": "16:30",
           "height": 2.290105
         },
         {
-          "localTime": "16:00",
+          "localTime": "17:00",
           "height": 2.368955
         },
         {
-          "localTime": "16:30",
+          "localTime": "17:30",
           "height": 2.440198
         },
         {
-          "localTime": "17:00",
+          "localTime": "18:00",
           "height": 2.506573
         },
         {
-          "localTime": "17:30",
+          "localTime": "18:30",
           "height": 2.607597
         },
         {
-          "localTime": "18:00",
+          "localTime": "19:00",
           "height": 2.768387
         },
         {
-          "localTime": "18:30",
+          "localTime": "19:30",
           "height": 2.965036
         },
         {
-          "localTime": "19:00",
+          "localTime": "20:00",
           "height": 3.148851
         },
         {
-          "localTime": "19:30",
+          "localTime": "20:30",
           "height": 3.297181
         },
         {
-          "localTime": "20:00",
+          "localTime": "21:00",
           "height": 3.421714
         },
         {
-          "localTime": "20:30",
+          "localTime": "21:30",
           "height": 3.539158
         },
         {
-          "localTime": "21:00",
-          "height": 3.657369
-        },
-        {
-          "localTime": "21:30",
-          "height": 3.770458
-        },
-        {
           "localTime": "22:00",
-          "height": 3.841198
+          "height": 3.657369
         },
         {
           "localTime": "22:08",
@@ -1529,14 +1669,32 @@
         },
         {
           "localTime": "22:30",
-          "height": 3.814822
+          "height": 3.770458
         },
         {
           "localTime": "23:00",
-          "height": 3.678713
+          "height": 3.841198
+        },
+        {
+          "localTime": "23:08",
+          "height": 3.8454353530158594,
+          "tide": "H"
         },
         {
           "localTime": "23:30",
+          "height": 3.814822
+        }
+      ]
+    },
+    {
+      "date": "10-04-2026",
+      "points": [
+        {
+          "localTime": "00:00",
+          "height": 3.678713
+        },
+        {
+          "localTime": "00:30",
           "height": 3.484957
         }
       ]
